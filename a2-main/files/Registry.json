@@ -1,0 +1,50 @@
+[
+  {
+    "boats": [
+      {
+        "id": 1,
+        "length": 10,
+        "name": "Flying Dutchman",
+        "type": "SAILBOAT"
+      },
+      {
+        "id": 2,
+        "length": 6,
+        "name": "Black Pearl",
+        "type": "MOTORSAILER"
+      }
+    ],
+    "firstName": "Jack",
+    "id": 1,
+    "lastName": "Sparrow",
+    "personNum": "196708181334"
+  },
+  {
+    "boats": [
+      {
+        "id": 1,
+        "length": 260,
+        "name": "US Navy Boat",
+        "type": "MOTORSAILER"
+      }
+    ],
+    "firstName": "Barrack",
+    "id": 2,
+    "lastName": "Obama",
+    "personNum": "197303041556"
+  },
+  {
+    "boats": [
+      {
+        "id": 1,
+        "length": 24,
+        "name": "Bravo-onesix",
+        "type": "SAILBOAT"
+      }
+    ],
+    "firstName": "Lisa",
+    "id": 3,
+    "lastName": "Green",
+    "personNum": "199807071771"
+  }
+]

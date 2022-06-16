@@ -1,0 +1,3 @@
+1;Jack;Sparrow;196708181334;1:Flying Dutchman:SAILBOAT:10.0/2:Black Pearl:MOTORSAILER:6.0/
+2;Barrack;Obama;197303041556;1:US Navy Boat:MOTORSAILER:260.0/
+3;Lisa;Green;199807071771;1:Bravo-onesix:SAILBOAT:24.0/
